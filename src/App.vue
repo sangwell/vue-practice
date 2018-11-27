@@ -162,6 +162,7 @@
     .right {
         height: 100vh;
         width: calc(100% - 201px);
+        padding: 10px;
         float: left;
         overflow-y: auto;
     }
